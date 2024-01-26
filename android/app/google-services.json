@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116228064970",
+    "project_id": "cukuruk-shop",
+    "storage_bucket": "cukuruk-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116228064970:android:2e51355b1d0fa71e705633",
+        "android_client_info": {
+          "package_name": "com.artefak.cukuruk_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylNeCX5UXNsv7V1um76udM0ZzJ5Zkq-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
